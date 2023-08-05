@@ -87,7 +87,7 @@ nav ul{
 
 }
 
-.line{
+/*.line{
     background-color: black;
     width: 30vw;
     height: 3px;
@@ -95,7 +95,7 @@ nav ul{
     background-color: darkgrey;
     transition: width 1s ease-in-out;
 
-}
+}*/
 
 @media screen and (max-width: 800px)
 {
